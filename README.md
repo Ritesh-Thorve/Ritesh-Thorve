@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **How to contribute on Open Source**
 
-- 👯 I’m looking to collaborate on **Opnen Source**
+- 👯 I’m looking to collaborate on **Open Source**
 
 - 👨‍💻 All of my projects are available at [https://riteshthorve.vercel.app](https://riteshthorve.vercel.app)
 
