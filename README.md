@@ -7,14 +7,6 @@
 - Goal: Become a Security Researcher  
 
 
-### Tools I'm Learning
-- Burp Suite  
-- Nmap  
-- Subfinder  
-- Httpx  
-- Nuclei  
-
-
 ### Links
 - Portfolio: https://riteshthorve.vercel.app  
 - Resume: https://drive.google.com/file/d/1QciBAjhL-tK5N9Ezq7bMRrb9cclMbqvT/view?usp=sharing  
