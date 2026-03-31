@@ -13,10 +13,6 @@
 - Email: riteshthorve387@gmail.com  
 
 
-### GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ritesh-thorve&show_icons=true" />
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
