@@ -14,7 +14,7 @@
 -  Exploring **Reconnaissance techniques** and **Bug Bounty hunting**
 -  Continuously learning modern offensive security tools and methodologies
 -  Long-term goal: become a professional **Security Researcher**
--  Next step **learning cloud security & AI Security**
+-  Next step **learning Mobile App, cloud, & AI Security security**
 
 ---
 
