@@ -14,7 +14,7 @@
 -  Exploring **Reconnaissance techniques** and **Bug Bounty hunting**
 -  Continuously learning modern offensive security tools and methodologies
 -  Long-term goal: become a professional **Security Researcher**
--  Open to collaborating on CTFs, bug bounty write-ups, and security tooling
+-  Next step **learning cloud security & AI Security**
 
 ---
 
