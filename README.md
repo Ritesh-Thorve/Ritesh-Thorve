@@ -13,7 +13,7 @@
 -  Currently sharpening skills through **Portswigger** and hands-on **Web Security** labs
 -  Exploring **Reconnaissance techniques** and **Bug Bounty hunting**
 -  Continuously learning modern offensive security tools and methodologies
--  Long-term goal: become a professional **Security Researcher**
+-  Long-term goal: become an **Security Researcher**
 -  Next step **learning Mobile App, cloud, & AI Security security**
 
 ---
