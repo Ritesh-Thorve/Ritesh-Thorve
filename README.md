@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=riteshthorve&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
 </p>
 
----
 
 ###  About Me
 
