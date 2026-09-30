@@ -9,7 +9,7 @@
 ###  About Me
 
 -  Passionate about **Cybersecurity** and **Application Security**
--  Currently sharpening skills through **Portswigger** and hands-on **Web Security** labs
+-  Currently sharpening skills through **Portswigger** and hands-on **Web Security** labs (Completed)
 -  Exploring **Reconnaissance techniques** and **Bug Bounty hunting**
 -  Continuously learning modern offensive security tools and methodologies
 -  Long-term goal: become an **Security Researcher**
